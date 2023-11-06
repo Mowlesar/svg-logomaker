@@ -1,0 +1,12 @@
+
+      <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+        <g>
+      <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+        <g> <!-- Group for text and shape -->
+          <circle cx="150" cy="110" r="80" fill="blue" />
+          <text x="150" y="150" font-size="80" text-anchor="middle" fill="red">hey</text>
+        </g>
+      </svg>
+    </g>
+      </svg>
+    
